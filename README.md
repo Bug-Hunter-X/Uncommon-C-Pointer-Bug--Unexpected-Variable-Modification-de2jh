@@ -1,0 +1,3 @@
+# Uncommon C Pointer Bug: Unexpected Variable Modification
+
+This repository showcases a subtle yet important bug in C programming related to pointer manipulation. The bug highlights potential issues when modifying variables indirectly through pointers. While this example seems straightforward, understanding pointer behavior in more complex scenarios is crucial for avoiding unexpected issues in larger C applications.  The `bug.c` file contains the erroneous code, and `bugSolution.c` presents a corrected version.  This is a valuable learning resource for C developers of all levels.
